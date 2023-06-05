@@ -25,7 +25,7 @@ class Parent {
     Parent(int x, int y) {
         this.x = 10;
     }
-}
+} // class의 끝
 
 class Child extends Parent {
     int y = 10;
