@@ -29,7 +29,7 @@ public class Ch06_26a29 {
     }
 } // class의 끝
 
- class TsetClass {
+ class TestClass {
     int iv; // 인스턴스 변수 / 객체 생성 후 사용가능
     static int cv; // 클래스 변수 / 언제든 사용가능
 
