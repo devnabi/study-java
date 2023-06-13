@@ -27,7 +27,7 @@ interface Interface2 {
     String test2();
 }
 
-// 인터페이스를 상속받으려면 implements(구현)을 써야한다. / 일부만 구현하는 경우 앞에 추상클래스와 동일하게 abstract를 붙여야 한다.
+// 인터페이스를 상속받으려면 implements(구현)를 써야한다. / 일부만 구현하는 경우 앞에 abstract를 붙여야 한다. / 추상클래스와 동일
 abstract class Fightable implements Interface {
     public void move(int x, int y){
         System.out.println("x = " + x + ", y = " + y);
