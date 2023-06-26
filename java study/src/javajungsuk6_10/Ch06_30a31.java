@@ -3,7 +3,7 @@ package javajungsuk6_10;
 public class Ch06_30a31 {
     
     public static void main(String[] args) {
-        // 오버로딩(overloading)
+        // 6-30 ~ 6-31 오버로딩(overloading)
 
         // 오버로딩(overloading) : 한 클래스 안에 같은 이름의 메서드를 여러 개 정의하는 것 / 과적하다.
 
